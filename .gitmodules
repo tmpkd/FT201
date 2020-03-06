@@ -1,3 +1,8 @@
 [submodule "Semen Trifochkin"]
 	path = Semen_Trifochkin
 	url = https://github.com/Gmacem/FILP
+	branch = master
+[submodule "Irina Zaets"]
+	path = Irina_Zaets
+	url = https://github.com/Irina-zaez/FILP_Zaets
+	branch = master
