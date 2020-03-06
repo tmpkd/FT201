@@ -6,3 +6,7 @@
 	path = Irina_Zaets
 	url = https://github.com/Irina-zaez/FILP_Zaets
 	branch = master
+[submodule "Dmitrii Kariakin"]
+	path = Dmitrii_Kariakin
+	url = https://github.com/tmpkd/FILP
+	branch = master
