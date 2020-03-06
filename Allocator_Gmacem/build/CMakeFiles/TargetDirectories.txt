@@ -1,0 +1,6 @@
+/home/sem/Projects/UrFU/4semester/FILP/build/CMakeFiles/rebuild_cache.dir
+/home/sem/Projects/UrFU/4semester/FILP/build/CMakeFiles/edit_cache.dir
+/home/sem/Projects/UrFU/4semester/FILP/build/word_counter/CMakeFiles/rebuild_cache.dir
+/home/sem/Projects/UrFU/4semester/FILP/build/word_counter/CMakeFiles/edit_cache.dir
+/home/sem/Projects/UrFU/4semester/FILP/build/word_counter/CMakeFiles/lib.dir
+/home/sem/Projects/UrFU/4semester/FILP/build/word_counter/CMakeFiles/word-counter.dir

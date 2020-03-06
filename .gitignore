@@ -1,0 +1,6 @@
+*.bin
+*.json
+*.o
+*.cmake
+*.a
+*.check_cache

@@ -1,0 +1,1249 @@
+The Project Gutenberg EBook of Robinc, by H.H. Holmes
+
+This eBook is for the use of anyone anywhere in the United States and
+most other parts of the world at no cost and with almost no restrictions
+whatsoever.  You may copy it, give it away or re-use it under the terms
+of the Project Gutenberg License included with this eBook or online at
+www.gutenberg.org.  If you are not located in the United States, you'll
+have to check the laws of the country where you are located before using
+this ebook.
+
+
+
+Title: Robinc
+
+Author: H.H. Holmes
+
+Release Date: March 1, 2020 [EBook #61540]
+
+Language: English
+
+
+*** START OF THIS PROJECT GUTENBERG EBOOK ROBINC ***
+
+
+
+
+Produced by Greg Weeks, Mary Meehan and the Online
+Distributed Proofreading Team at http://www.pgdp.net
+
+
+
+
+
+
+
+
+
+                                Robinc
+
+                            by H. H. Holmes
+
+             Politics and robots are, alike, very curious
+             things. But they're alike in another way--if
+             you look at things straight, and don't throw
+              out answers even if they do seem more than
+           a little screwy, you can use them effectively--
+
+           [Transcriber's Note: This etext was produced from
+              Astounding Science-Fiction September 1943.
+         Extensive research did not uncover any evidence that
+         the U.S. copyright on this publication was renewed.]
+
+
+You'd think maybe it meant clear sailing after we'd got the Council's
+O.K. You'd maybe suppose that'd mean the end of our troubles and the
+end of android robots for the world.
+
+That's what Dugg Quinby thought, anyway. But Quinby may have had a
+miraculous gift of looking straight at problems and at things and at
+robots and getting the right answer; but he was always too hopeful
+about looking straight at people. Because, like I kept saying to
+him, people aren't straight, not even to themselves. And our future
+prospects weren't anywhere near as good as he thought.
+
+That's what the Head of the Council was stressing when we saw him that
+morning just after the Council had passed the bill. His black face
+was sober--no trace of that flashing white grin that was so familiar
+on telecasts. "I've put your bill through, boys," he was saying. "God
+knows I'm grateful--the whole Empire should be grateful to you for
+helping me put over the renewal of those Martian mining concessions,
+and the usuform barkeep you made me is my greatest treasure; but I
+can't help you any more. You're on your own now."
+
+That didn't bother Quinby. He said, "The rest ought to be easy. Once
+people understand what usuform robots can do for them--"
+
+"I'm afraid, Mr. Quinby, it's you who don't quite understand. Your
+friend here doubtless does; he has a more realistic slant on things.
+But you--I wouldn't say you idealize people, but you flatter them. You
+expect them to see things as clearly as you do. I'm afraid they usually
+don't."
+
+"But surely when you explained to the Council the advantages of
+usuforms--"
+
+"Do you think the Council passed the bill only because they saw those
+advantages? They passed it because I backed it, and because the renewal
+of the Martian concessions have for the moment put me in a powerful
+position. Oh, I know, we're supposed to have advanced immeasurably
+beyond the political corruption of the earlier states; but let progress
+be what it may, from the cave man on up to the illimitable future,
+there are three things that people always have made and always will
+make: love, and music, and politics. And if there's any difference
+between me and an old-time political leader, it's simply that I'm
+trying to put my political skill at the service of mankind."
+
+I wasn't listening too carefully to all this. The service of mankind
+wasn't exactly a hobby of mine. Quinby and the Head were all out for
+usuforms because they were a service to man and the Empire of Earth;
+I was in it because it looked like a good thing. Of course you can't
+be around such a mixture of a saint, a genius, and a moron as Quinby
+without catching a little of it; but I tried to keep my mind fixed
+clear on what was in it for me.
+
+And that was plenty. For the last couple of centuries our
+civilization had been based on robots--android robots. Quinby's
+usuform robots--Q.U.R.--robots shaped not as mechanical men, but as
+independently thinking machines formed directly from their intended
+function--threatened the whole robot set-up. They were the biggest
+thing since Zwergenhaus invented the mechanical brain, and I was in on
+the ground floor.
+
+With the basement shaking under me.
+
+It was an android guard that interrupted the conference here. We hadn't
+really got started on usuform manufacture yet, and anyway, Quinby was
+inclined to think that androids might be retained in some places for
+guards and personal attendants. He said, "Mr. Grew says that you will
+see him."
+
+The Head frowned. "Robinc has always thought it owned the Empire. Now
+Mr. Grew thinks he owns me. Well, show him in." As the guard left, he
+added to us, "This Grew-Quinby meeting has to take place some time. I'd
+rather like to see it."
+
+       *       *       *       *       *
+
+The president-owner of Robinc--Robots Incorporated, but nobody ever
+said it in full--was a quiet old man with silvery hair and a gentle sad
+smile. It seemed even sadder than usual today. He greeted the Head and
+then spoke my name with a sort of tender reproach that near hurt me.
+
+"You," he said. "The best trouble-shooter that Robinc ever had, and
+now I find you in the enemy's camp."
+
+But I knew his technique, and I was armed against being touched by it.
+"_In_ the enemy's camp?" I said. "I _am_ the enemy. And it's because
+I was your best trouble-shooter that I learned the real trouble with
+Robinc's androids: They don't work, and the only solution is to
+supersede them."
+
+"Supersede is a kind word," he said wistfully. "But the unkind act is
+destruction. Murder. Murder of Robinc itself, draining the lifeblood of
+our Empire."
+
+The Head intervened. "Not draining, Mr. Grew, but transfusing. The
+blood stream, to carry on your own metaphor, is tainted; we want fresh
+blood, and Mr. Quinby provides it."
+
+"I am not helpless, you know," the old man murmured gently.
+
+"I'm afraid possibly you are, sir, and for the first time in your
+life. But you know the situation: in the past few months there has
+been an epidemic of robot breakdowns. Parts unnecessary and unused,
+but installed because of our absurd insistance on an android shape,
+have atrophied. Sometimes even the brain has been affected; my own
+confidential cryptanalyst went totally mad. Quinby's usuforms forestall
+any such problem."
+
+"The people will not accept them. They are conditioned to androids."
+
+"They must accept them. You know, better than most, the problems of
+supply that the Empire faces. The conservation of mineral resources
+is one of our essential aims. And usuforms will need variously from
+seventy to only thirty percent of the metal that goes into your
+androids. This is no mere matter of business rivalry; it is conflict
+between the old that depletes the Empire and the new that strengthens
+it."
+
+"And the old must be cast aside and rejected?"
+
+"You," I began, "have, of course, always shown such tender mercy to
+your business compet--" but Quinby broke in on me.
+
+"I realize, Mr. Grew, that this isn't fair to you. But there are much
+more important matters than you involved."
+
+"Thank you." The gentle old voice was frigid.
+
+"But I wouldn't feel right if you were simply, as you put it, cast
+aside and rejected. If you'll come to see us and talk things over, I'm
+pretty sure we can--"
+
+"Sir!" Sanford Grew rose to his full short height. "I do not ask favors
+from puppies. I have only one request." He turned to the Head. "The
+repeal of this ridiculous bill depriving Robinc of its agelong monopoly
+which has ensured the safety of the Empire."
+
+"I'm sorry, Mr. Grew. That is impossible."
+
+The hair was still silvery and the smile was still sad and gentle. But
+the words he addressed to us were, "Then you understand that this is
+war?"
+
+Then he left. I didn't feel too comfortable. Saving the Empire is all
+very well. Being a big shot in a great new enterprise is swell. But a
+war with something the size of Robinc is not what the doctor usually
+orders.
+
+"The poor man," said Quinby.
+
+The Head flashed an echo of the famous grin. "No wonder he's upset.
+It's not only the threatened loss of power, I heard that yesterday his
+android cook broke down completely. And you know how devoted he is to
+unconcentrated food."
+
+Quinby brightened. "Then perhaps we--"
+
+The Head laughed. "Your only hope is that a return to a concentrated
+diet will poison him. You've no chance of winning over Sanford Grew
+alive."
+
+       *       *       *       *       *
+
+We went from there to the Sunspot. "It's funny," Quinby used to say. "I
+don't much like to drink, but a bar's always good for heavy thinking."
+And who was I to argue?
+
+Guzub, that greatest of bartenders, spotted us as we came in and had
+one milk and one straight whiskey poured by the time we reached our
+usual back table. He served them to us himself, with a happy flourish
+of his tentacles.
+
+"What are you so beamish about?" I asked gruffly.
+
+Guzub shut his middle eye in the Martian expression of happiness.
+"Begauze you boys are going to 'ave a gread zugzezz with your uxuvorm
+robods and you invended them righd 'ere in the Zunzbod." He produced
+another tentacle holding a slug of straight vuzd and downed it. "Good
+lugg!"
+
+I glowered after him. "We need luck. With Grew as our sworn enemy,
+we're on the--"
+
+Quinby had paper spread out before him. He looked up now, took a sip of
+milk, and said, "Do you cook?"
+
+"Not much. Concentrates do me most of the time."
+
+"I can sympathize with Grew. I like old-fashioned food myself and I'm
+fairly good at cooking it. I just thought you might have some ideas."
+
+"For what?"
+
+"Why, a usuform cook, of course. Grew's android cook broke down. We'll
+present him with a usuform, and that will convert him, too--"
+
+"Convert hell!" I snorted. "Nothing can convert that sweetly smiling
+old--But maybe you have got something there; get at a man through his
+hobby--Could work."
+
+"Now usually," Quinby went on, "androids break down because they don't
+use all their man-shaped body. But an android cook would go nuts
+because man's body isn't enough. I've cooked; I know. So we'll give the
+usuform more. For instance, give him Martoid tentacles instead of arms.
+Maybe instead of legs give him an automatic sliding height adjustment
+to avoid all the bending and stooping, with a roller base for quick
+movement. And make the tentacles functionally specialized."
+
+I didn't quite get that last, and I said so.
+
+"Half your time in cooking is wasted reaching around for what you need
+next. We can build in a lot of that stuff. For instance, one tentacle
+can be a registering thermometer. Tapering to a fine point--stick it in
+a roast and--One can end in a broad spoon for stirring--heat-resistant,
+of course. One might terminate in a sort of hand, of which each of the
+digits was a different-sized measuring spoon. And best of all--why the
+nuisance of bringing food to the mouth to taste? Install taste-buds in
+the end of one tentacle."
+
+I nodded. Quinby's pencil was covering the paper with tentative
+hookups. Suddenly he paused. "I'll bet I know why android cooks were
+never too successful. Nobody ever included the Verhaeren factor in
+their brains."
+
+The Verhaeren factor, if you've studied this stuff at all, is what
+makes robots capable of independent creative action. For instance
+it's used in the robots that turn out popular fiction--in very small
+proportion, of course.
+
+"Yes, that's the trouble. They never realized that a cook is an artist
+as well as a servant. Well, we'll give him in his brain what he needs
+for creation, and in his body the tools he needs to carry it out. And
+when Mr. Grew has had his first meal from a usuform cook--"
+
+It was an idea. I admitted, that might have worked on anybody but
+Sanford Grew--get at a man and convert him through what's dearest to
+his heart. But I'd worked for Grew. I knew him. And I knew that no
+hobby, not even his passion for unconcentrated food, could be stronger
+than his pride in his power as president of Robinc.
+
+So while Quinby worked on his usuform cook and our foreman Mike Warren
+got our dowser ready for the first big demonstration, I went ahead with
+the anti-Robinc campaign.
+
+"We've got four striking points," I explained to Quinby. "Android
+robots atrophy or go nuts; usuforms are safe. Android robots are almost
+as limited as man in what they can do without tools and accessories;
+usuforms can be constructed to do anything. Android robots are
+expensive because you've got to buy an all-purpose one that can do more
+than you need; usuforms save money because they're specialized. Android
+robots use up mineral resources; usuforms save them."
+
+"The last reason is the important one." Quinby said.
+
+I smiled to myself. Sure it was, but can you sell the people on
+anything as abstract as conservation? Hell no. Tell 'em they'll save
+credits, tell 'em they'll get better service, and you've got 'em signed
+up already. But tell 'em they're saving their grandchildren from a
+serious shortage and they'll laugh in your face.
+
+So as usual, I left Quinby to ideas and followed my own judgment on
+people, and by the time he'd sent the cook to Grew I had all lined up
+the campaign that could blast Grew and Robinc out of the Empire. The
+three biggest telecommentators were all sold on usuforms. A major solly
+producer was set to do a documentary on them. Orders were piling up
+about twice as fast as Mike Warren could see his way clear to turning
+them out.
+
+So then came the day of the big test.
+
+We'd wanted to start out with something big and new that no android
+could possibly compete with, and we'd had the luck to run onto Mike's
+brother-in-law, who'd induced in robot brains the perception of that
+_n_th sense that used to enable dowsers to find water. Our usuform
+dowser was God's gift to explorers and fresh exciting copy. So the Head
+had arranged a big demonstration on a specially prepared field, with
+grandstands and fireworks and two bands--one human, one android--and
+all the trimmings.
+
+We sat in our box, Mike and Quinby and I. Mike had a shakerful of Three
+Planet cocktails mixed by our usuform barkeep; they aren't so good when
+they stand, but they were still powerful enough to keep him going. I
+was trying to get along on sheer will power, but little streams of
+sweat were running down my back and my nails were carving designs in my
+palms.
+
+Quinby didn't seem bothered. He kept watching the android band and
+making notes. "You see," he explained, "it's idiotic waste to train a
+robot to play an instrument, when you could make an instrument that
+_was_ a robot. Your real robot band would be usuforms, and wouldn't be
+anything but a flock of instruments that could play themselves. You
+could even work out new instruments, with range and versatility and
+flexibility beyond the capacity of human or android fingers and lungs.
+You could--"
+
+"Oh, oh," I said. There was Sanford Grew entering our box.
+
+The smile was still gentle and sad, but it had a kind of warmth about
+it that puzzled me. I'd never seen that on Grew's face before. He
+advanced to Quinby and held out his hand. "Sir," he said, "I have just
+dined."
+
+Quinby rose eagerly, his blond head towering above the little old
+executive. "You mean my usuform--"
+
+"Your usuform, sir, is indubitably the greatest cook since the Golden
+Age before the devilish introduction of concentrates. Do you mind if I
+share your box for this great exhibition?"
+
+Quinby beamed and introduced him to Mike. Grew shook hands warmly with
+our foreman, then turned to me and spoke even my name with friendly
+pleasure. Before anybody could say any more, before I could even wipe
+the numb dazzle off my face, the Head's voice began to come over the
+speaker.
+
+His words were few--just a succinct promise of the wonders of usuforms
+and their importance to our civilization--and by the time he'd finished
+the dowser was in place on the field.
+
+To everybody watching but us, there was never anything that looked less
+like a robot. There wasn't a trace of an android trait to it. It looked
+like nothing but a heavy duralite box mounted on caterpillar treads.
+
+But it was a robot by legal definition. It had a Zwergenhaus brain and
+was capable of independent action under human commands or direction.
+That box housed the brain, with its _n_th-sensory perception, and
+eyes and ears, and the spike-laying apparatus. For when the dowser's
+perception of water reached a certain level of intensity, it layed a
+metal spike into the ground. An exploring party could send it out on
+its own to survey the territory, then follow its tracks at leisure and
+dig where the spikes were.
+
+After the Head's speech there was silence. Then Quinby leaned over to
+the mike in our box and said "Go find water."
+
+The dowser began to move over the field. Only the Head himself
+knew where water had been cached at various levels and in various
+quantities. The dowser raced along for a bit, apparently finding
+nothing. Then it began to hesitate and veer. Once it paused for
+noticeable seconds. Even Quinby looked tense. I heard sharp breaths
+from Sanford Grew, and Mike almost drained his shaker.
+
+Then the dowser moved on. There was water, but not enough to bother
+drilling for. It zoomed about a little more, then stopped suddenly and
+definitely. It had found a real treasure trove.
+
+I knew its mechanism. In my mind I could see the Zwergenhaus brain
+registering and communicating its needs to the metal muscles of the
+sphincter mechanism that would lay the spike. The dowser sat there
+apparently motionless, but when you knew it you had the impression of a
+hen straining to lay.
+
+Then came the explosion. When my eyes could see again through the
+settling fragments, there was nothing in the field but a huge crater.
+
+It was Quinby, of course, who saw right off what had happened.
+"Somebody," my numb ears barely heard him say, "substituted for the
+spike an explosive shell with a contact-fuse tip."
+
+Sanford Grew nodded. "Plausible, young man. Plausible. But I rather
+think that the general impression will be simply that usuforms don't
+work." He withdrew, smiling gently.
+
+I held Mike back by pouring the rest of the shaker down his throat.
+Mayhem wouldn't help us any.
+
+"So you converted him?" I said harshly to Quinby. "Brother, the next
+thing you'd better construct is a good guaranteed working usuform
+converter."
+
+The next week was the low point in the history of Q.U.R. I know now,
+when Quinby's usuforms are what makes the world tick, it's hard to
+imagine Q.U.R. ever hitting a low point. But one reason I'm telling
+this is to make you realize that no big thing is easy, and that a lot
+of big things depend for their success on some very little thing, like
+that chance remark of mine I just quoted.
+
+Not that any of us guessed then how important that remark was. We had
+other things to worry about. The fiasco of that demonstration had just
+about cooked our goose. Sure, we explained it must've been sabotage,
+and the Head backed us up; but the wiseacres shook their heads and
+muttered "Not bad for an alibi, _but_--"
+
+Two of three telecommentators who had been backing us switched over to
+Grew. The solly producer abandoned his plans for a documentary. I don't
+know if this was honest conviction or the power of Robinc; it hit us
+the same either way. People were scared of usuforms now; they might go
+_boom_! And the biggest and smartest publicity and advertising campaign
+of the past century was fizzling out _ffft_ before our helpless eyes.
+
+It was the invaluable Guzub who gave us our first upward push. We were
+drinking at the Sunspot when he said, "Ah, boys--Zo things are going
+wrong with you, bud you zdill gome 'ere. No madder wad abbens, beoble
+zdill wand three things: eading and dringing and--"
+
+Quinby looked up with the sharp pleasure of a new idea. "There's
+nothing we can do with the third," he said. "But eating and
+drinking--Guzub, you want to see usuforms go over, don't you?"
+
+"And remember," I added practically, "you've got a royalty interest in
+our robot barkeep."
+
+Guzub rolled all his eyes up once and down once--the Martian trick of
+nodding assent.
+
+"All right," said Quinby. "Practically all bartenders are Martians,
+the tentacles are so useful professionally. Lots of them must be good
+friends of yours?"
+
+"Lodz," Guzub agreed.
+
+"Then listen--"
+
+That was how we launched the really appealing campaign. Words? Sure,
+people have read and heard millions upon billions of words, and one set
+of them is a lot like another. But when you get down to Guzub's three
+essentials--
+
+Within a fortnight there was one of our usuform barkeeps in one
+bar out of five in the influential metropolitan districts. Guzub's
+friends took orders for drinks, gave them to the usuforms, served the
+drinks, and then explained to the satisfied customers how they'd been
+made--pointing out besides that there had _not_ been an explosion. The
+customers would get curious. They'd order more to watch the usuform
+work. (It had Martoid tentacles and its own body was its shaker.) The
+set-up was wonderful for business--and for us.
+
+That got at the men. Meanwhile we had usuform cooks touring the
+residential districts and offering to prepare old-fashioned meals free.
+There wasn't a housewife whose husband didn't say regularly once a
+week, "Why can't we have more old-fashioned food instead of all these
+concentrates? Why, my mother used to--"
+
+Few of the women knew the art. Those of them who could afford android
+cooks hadn't found them too satisfactory. And husbands kept muttering
+about mother. The chance of a happy home was worth the risk of these
+dreadful dangerous new things. So our usuform cooks did their stuff and
+husbands were rapturously pleased and everything began to look swell.
+(We remembered to check up on a few statistics three quarters of an
+hour later--it seemed we had in a way included Guzub's third appeal
+after all.)
+
+So things were coming on sweetly until one day at the Sunspot I looked
+up to see we had a visitor. "I heard that I might find you here,"
+Sanford Grew smiled. He beckoned to Guzub and said "Your oldest
+brandy."
+
+Guzub knew him by sight. I saw one tentacle flicker hesitantly toward a
+bottle of mikiphin, that humorously named but none the less effective
+knockout liquor. I shook my head, and Guzub shrugged resignedly.
+
+"Well?" Quinby asked directly.
+
+"Gentlemen," said Sanford Grew, "I have come here to make a last appeal
+to you."
+
+"You can take your appeal," I said, "and--"
+
+Quinby shushed me. "Yes, sir?"
+
+"This is not a business appeal, young men. This is an appeal to your
+consciences, to your duty as citizens of the Empire of Earth."
+
+I saw Quinby looking a little bothered. The smiling old boy was shrewd;
+he knew that the conscience was where to aim a blow at Quinby. "Our
+consciences are clear--I think and trust."
+
+"Are they? This law that you finagled through the Council, that
+destroyed what you call my monopoly--it did more than that. That
+'monopoly' rested on our control of the factors which make robots safe
+and prevent them from ever harming living beings. You have removed that
+control."
+
+Quinby laughed with relief. "Is that all? I knew you'd been using that
+line in publicity but I didn't think you expected us to believe it.
+There are other safety factors beside yours. We're using them, and the
+law still insists on the use of some, though not necessarily Robinc's.
+I'm afraid my conscience is untouched."
+
+"I do not know," said Sanford Grew, "whether I am flattering or
+insulting you when I say I know that it is no use trying to buy you out
+at any price. You are immune to reason--"
+
+"Because it's on our side," said Quinby quietly.
+
+"I am left with only one recourse." He rose and smiled a gentle
+farewell. "Good day, gentlemen."
+
+He'd left the brandy untouched. I finished it, and was glad I'd vetoed
+Guzub's miki.
+
+"One recourse--" Quinby mused. "That must mean--"
+
+I nodded.
+
+       *       *       *       *       *
+
+But it started quicker than we'd expected. It started, in fact, as
+soon as we left the Sunspot. Duralite arms went around my body and a
+duralite knee dug into the small of my back.
+
+The first time I ever met Dugg Quinby was in a truly major and wondrous
+street brawl, where the boy was a whirlwind. Quinby was mostly the
+quiet kind, but when something touched him off--and injustice was
+the spark that usually did it--he could fight like fourteen Martian
+mountaineers defending their idols.
+
+But who can fight duralite? Me, I have some sense; I didn't even try.
+Quinby's temper blinded his clear vision for a moment. The only result
+was a broken knuckle and some loss of blood and skin.
+
+The next thing was duralite fingers probing for the proper spots at the
+back of my head. Then a sudden deft pressure, and blackness.
+
+       *       *       *       *       *
+
+We were in a workshop of some sort. My first guess was one of the
+secret workshops that honeycomb the Robinc plant, where nobody but
+Grew's most handpicked man ever penetrate. We were cuffed to the wall.
+They'd left only one of the androids to guard us.
+
+It was Quinby who spoke to him, and straight to the point. "What
+happens to us?"
+
+"When I get my next orders," the android said in his completely
+emotionless voice, "I kill you."
+
+I tried to hold up my morale by looking as indifferent as he did. I
+didn't make it.
+
+"The last recourse--" Quinby said.
+
+I nodded. Then, "But look!" I burst out, "This can't be what it looks
+like. He can't be a Robinc android because he's going," I gulped a
+fractional gulp, "to kill us. Robinc's products have the safety factor
+that prevents them from harming a living being, even on another being's
+orders."
+
+"No," said Quinby slowly. "Remember that Robinc manufactures androids
+for the Empire's army? Obviously those can't have the safety factor.
+And Mr. Grew has apparently held out a few for his own bootleg
+banditti."
+
+I groaned. "Trust you," I said. "We're chained up with a murderous
+android, and trust you to stand there calmly and look at things
+straight. Well, are you going to see straight enough to get us out of
+this?"
+
+"Of course," he said simply. "We can't let Grew destroy the future of
+usuforms."
+
+There was at least one other future that worried me more, but I knew
+there was no use bringing up anything so personal. I just stood there
+and watched Quinby thinking--what time I wasn't watching the android's
+hand hovering around his holster and wondering when he'd get his next
+orders.
+
+And while I was waiting and watching, half scared sweatless, half
+trusting blindly in Quinby, half wondering impersonally what death was
+like--yes, I know that makes three halves of me, but I was in no state
+for accurate counting--while I waited, I began to realize something
+very odd.
+
+It wasn't me I was most worried about. It was Dugg Quinby. Me going
+all unselfish on me! Ever since Quinby had first seen the nonsense in
+androids--no, back of that, ever since that first magnifiscrumptious
+street brawl, I'd begun to love that boy like a son--which'd have made
+me pretty precocious.
+
+There was something about him--that damned mixture of almost stupid
+innocence, combined with the ability to solve any problem by his--not
+ingenuity, precisely, just his inborn capacity for looking at things
+straight.
+
+Here I was feeling selfless. And here he was coming forth with the
+first at all tricky or indirect thing I'd ever known him to pull.
+Maybe it was like marriage--the way two people sort of grow together
+and average up.
+
+Anyway, he said to the android now, "I bet you military robots are
+pretty good marksmen, aren't you?"
+
+"I'm the best Robinc ever turned out," the android said.
+
+I worked for Robinc; I knew that each of them was conditioned with the
+belief that he was the unique best. It gave them confidence.
+
+Quinby reached out his unfettered hand and picked a plastic disk off
+the worktable. "While you're waiting for orders, why don't you show us
+some marksmanship? It'll pass the time."
+
+The robot nodded, and Quinby tossed the disk in the air. The android
+grabbed at its holster. And the gun stuck.
+
+The metal of the holster had got dented in the struggle of kidnaping
+us. Quinby must have noticed that; his whole plan developed from that
+little point.
+
+The robot made comments on the holster; military androids had a
+soldier's vocabulary built in, so we'll skip that.
+
+Quinby said, "That's too bad. My friend here's a Robinc repair man, or
+used to be. If you let him loose, he could fix that."
+
+The robot frowned. He wanted the repair, but he was no dope. Finally
+he settled on chaining my foot before releasing my hand, and keeping
+his own digits constantly on my wrist so he could clamp down if I got
+any funny notions about snatching the gun and using it. I began to
+think Quinby's plan was fizzling, but I went ahead and had the holster
+repaired in no time with the tools on the worktable.
+
+"Does that happen often?" Quinby asked.
+
+"A little too often." There was a roughness to the android's tones. I
+recognized what I'd run onto so often in trouble-shooting; an android's
+resentment of the fact that he didn't work perfectly.
+
+"I see," Quinby went on, as casually as though we were here on social
+terms. "Of course the trouble is that you have to use a gun."
+
+"I'm a soldier. Of course I have to use one."
+
+"You don't understand. I mean the trouble is that you have to _use_
+one. Now, if you could _be_ a gun--"
+
+It took some explaining. But when the android understood what it could
+mean to be a usuform, to have an arm that didn't need to snatch at a
+holster because it was itself a firing weapon, his eye cells began to
+take on a new bright glow.
+
+"You could do that to me?" he demanded of me.
+
+"Sure," I said. "You give me your gun and I'll--"
+
+He drew back mistrustfully. Then he looked around the room, found
+another gun, unloaded it, and handed it to me. "Go ahead," he said.
+
+It was a lousy job. I was in a state and in a hurry and the sweat
+running down my forehead and dripping off my eyebrows didn't help any.
+The workshop wasn't too well equipped, either, and I hate working from
+my head. I like a nice diagram to look at.
+
+But I made it somehow, very crudely, replacing one hand by the chamber
+and barrel and attaching the trigger so that it would be worked by the
+same nerve currents as actuated the finger movements to fire a separate
+gun.
+
+The android loaded himself awkwardly. I stood aside, and Quinby
+tossed up the disk. You never saw a prettier piece of instantaneous
+trap-shooting. The android stretched his face into that very rare
+thing, a robot grin, and expressed himself in pungently jubilant
+military language.
+
+"You like it?" Quinby asked.
+
+All that I can quote of the robot's reply is "Yes," but he made it
+plenty emphatic.
+
+"Then--"
+
+But I stepped in. "Just a minute. I've got an idea to improve it."
+Quinby was probably trusting to our guard's gratitude; I wanted a surer
+hold on him. "Let me take this off just a second--" I removed the
+chamber and barrel; I still had his hand. "Now," I said, "we want out."
+
+He brought up the gun in his other hand, but I said, "Ah, ah! Naughty!
+You aren't supposed to kill us till you get orders, and if you do
+they'll find you here with one hand. Fine state for a soldier. You
+can't repair yourself; you need two hands for it. But if we get out,
+you can come with us and be made over as much as you want into the
+first and finest efficient happy usuform soldier."
+
+It took a little argument, but with the memory of that one perfect
+shot in his mind it didn't take much. As Quinby said afterward,
+"Robinc built pride into its robots to give them self-confidence. But
+that pride also gave them vanity and dissatisfaction with anything
+less than perfection. That's what we could use. It was all perfectly
+simple--"
+
+"--when you looked at it straight," I chorused with him.
+
+"And besides," he said, "now we know how to lick Robinc forever."
+
+       *       *       *       *       *
+
+That was some comfort. I suppose, though he wouldn't say another word
+to explain it. And I needed comfort, because just then things took a
+nasty turn again. We stuck close to our factory and didn't dare go out.
+We were taking no chances on more kidnapings before Quinby finished his
+new inspiration.
+
+Quinby worked on that alone, secret even from us. I figured out some
+extra touches of perfection on the usuform soldier, who was now our
+bodyguard--Grew would never dare complain of the theft because he'd
+had no legal right to possess such an android, anyway. Mike and his
+assistants, both living and usuform, turned out barkeeps and dowsers
+and cooks--our three most successful usuform designs so far.
+
+We didn't go out, but we heard enough. It was the newest and
+nastiest step in Grew's campaign. He had men following up our cooks
+and bartenders and managing to slip concentrated doses of ptomaine
+alkaloids into their products. No serious poisoning, you understand;
+just an abnormally high proportion of people taken sick after taking
+usuform-prepared food or drink. And a rumor going around that the
+usuforms secreted a poisonous fluid, which was objective nonsense, but
+enough to scare a lot of people.
+
+"It's no use." Mike said to me one day. "We're licked. Two new orders
+in a week. We're done for. No use keeping up production."
+
+"The hell we're licked," I said.
+
+"If you want to encourage me, you'd ought to sound like you believed it
+yourself. No, we're sunk. While _he_ sits in there and--I'm going down
+to the Sunspot and drink Three Planets till this one spins. And if
+Grew wants to kidnap me, he's welcome to me."
+
+It was just then the message came from the Head. I read it, and knew
+how the camel feels about that last straw. It said:
+
+    I can't resist popular pressure forever. I know and you know what
+    Grew is up to; but the public is demanding re-enactment of the law
+    giving Robinc exclusive rights. Unless Quinby can see straight
+    through the hat to the rabbit, that re-enactment is going to pass.
+
+"We'll see what he has to say to this," I said to Mike. I started for
+the door, and even as I did so Quinby came out.
+
+"I've got it!" he said. "It's done." He read the Head's message with
+one glance, and it didn't bother him. He grabbed me by the shoulders
+and beamed. I've never heard my name spoken so warmly. "Mike, too. Come
+on in and see the greatest usuform we've hit on yet. Our troubles are
+over."
+
+We went in. We looked. And we gawked. For Quinby's greatest usuform, so
+far as our eyes could tell, was just another android robot.
+
+       *       *       *       *       *
+
+Mike went resolutely off to the Sunspot to carry out his threat of
+making this planet spin. I began to think myself that the tension had
+affected Quinby's clear-seeing mind. I didn't listen especially when he
+told me I'd given him the idea myself. I watched the usuform-android
+go off on his mysterious mission and I even let him take my soldier
+along. And I didn't care. We were done for now, if even Dugg Quinby was
+slipping.
+
+But I didn't have time to do much worrying that morning. I was kept too
+busy with androids that came in wanting repairs. Very thoroughgoing
+repairs, too, that turned them, like my soldier, practically into
+usuforms. We always had a few such requests--I think I mentioned
+how they all want to be perfect--but this began to develop into a
+cloudburst. I stopped the factory lines and put every man and robot on
+repair.
+
+Along about mid-afternoon I began to feel puzzled. It took me a little
+while to get it, and then it hit me. The last three that I'd repaired
+had been brand-new. Fresh from the Robinc factory, and rushing over
+here to be remade into ... into usuforms!
+
+As soon as I finished adjusting drill arms on the robot miner, I
+hurried over to where Quinby was installing an infrared color sense on
+a soldier intended for camouflage-spotting. He looked up and smiled
+when he saw me. "You get it now?"
+
+"I get what's happening. But how ... who--"
+
+"I just followed your advice. Didn't you say what we needed was a
+guaranteed working usuform converter?"
+
+       *       *       *       *       *
+
+"I don't need to explain, do I? It's simple enough once you look at it
+straight."
+
+We were sitting in the Sunspot. Guzub was very happy; it was the first
+time the Head had ever honored his establishment.
+
+"You'd better," I said, "remember I'm a crooked-viewing dope."
+
+"But it's all from things you've said. You're always saying I'm good at
+things and robots, but lousy at people because people don't see or act
+straight. Well, we were stymied with people. They couldn't see the real
+importance of usuforms through all the smoke screens that Grew threw
+up. But you admit yourself that robots see straight, so I went direct
+to them. And you said we needed a usuform converter, so I made one."
+
+The Head smiled. "And what is the utile form of a converter?"
+
+"He had to look like an android, because otherwise they wouldn't accept
+him. But he was the sturdiest, strongest android ever made, with
+several ingenious, new muscles. If it came to fighting, he was sure
+to make converts that way. And besides, he had something that's never
+been put in a robot brain before--the ability to argue and convince.
+With that, he had the usuform soldier as a combination bodyguard and
+example. So he went out among the androids, even to the guards at
+Robinc and from then on inside; and since he was a usuform converter,
+well--he converted."
+
+The Head let the famous grin play across his black face. "Fine work,
+Quinby. And if Grew hadn't had the sense to see at last that he was
+licked, you could have gone on with your usuform converters until there
+wasn't an android left on Earth. Robinc would have toppled like a
+wooden building with termites."
+
+"And Grew?" I asked. "What's become of him?"
+
+"I think, in a way, he's resigned to his loss. He told me that since
+his greatest passion was gone, he was going to make the most of his
+second greatest. He's gone off to his place in the mountains with that
+usuform cook you gave him, and he swears he's going to eat himself to
+death."
+
+"Me," said Mike, with appropriate business, "I'd like a damper death."
+
+"And from now on, my statisticians assure me, we're in no danger of
+ever using up our metal stockpile. The savings on usuforms will save
+us. Do you realize, Quinby, that you're just about the most important
+man in the Empire today?"
+
+That was when I first heard the band approaching. It got louder while
+Quinby got red and gulped. It was going good when he finally said, "You
+know, if I'd ever thought of that, I ... I don't think I could have
+done it."
+
+He meant it, too. You've never seen an unhappier face than his when the
+crowd burst into the Sunspot yelling "Quinby!" and "Q.U.R.!"
+
+But you've never seen a prouder face than mine as I saw it then in the
+bar mirror. Proud of myself, sure, but only because it was me that
+discovered Dugg Quinby.
+
+
+
+
+
+End of the Project Gutenberg EBook of Robinc, by H.H. Holmes
+
+*** END OF THIS PROJECT GUTENBERG EBOOK ROBINC ***
+
+***** This file should be named 61540.txt or 61540.zip *****
+This and all associated files of various formats will be found in:
+        http://www.gutenberg.org/6/1/5/4/61540/
+
+Produced by Greg Weeks, Mary Meehan and the Online
+Distributed Proofreading Team at http://www.pgdp.net
+
+
+Updated editions will replace the previous one--the old editions will
+be renamed.
+
+Creating the works from print editions not protected by U.S. copyright
+law means that no one owns a United States copyright in these works,
+so the Foundation (and you!) can copy and distribute it in the United
+States without permission and without paying copyright
+royalties. Special rules, set forth in the General Terms of Use part
+of this license, apply to copying and distributing Project
+Gutenberg-tm electronic works to protect the PROJECT GUTENBERG-tm
+concept and trademark. Project Gutenberg is a registered trademark,
+and may not be used if you charge for the eBooks, unless you receive
+specific permission. If you do not charge anything for copies of this
+eBook, complying with the rules is very easy. You may use this eBook
+for nearly any purpose such as creation of derivative works, reports,
+performances and research. They may be modified and printed and given
+away--you may do practically ANYTHING in the United States with eBooks
+not protected by U.S. copyright law. Redistribution is subject to the
+trademark license, especially commercial redistribution.
+
+START: FULL LICENSE
+
+THE FULL PROJECT GUTENBERG LICENSE
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg-tm mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase "Project
+Gutenberg"), you agree to comply with all the terms of the Full
+Project Gutenberg-tm License available with this file or online at
+www.gutenberg.org/license.
+
+Section 1. General Terms of Use and Redistributing Project
+Gutenberg-tm electronic works
+
+1.A. By reading or using any part of this Project Gutenberg-tm
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement. If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or
+destroy all copies of Project Gutenberg-tm electronic works in your
+possession. If you paid a fee for obtaining a copy of or access to a
+Project Gutenberg-tm electronic work and you do not agree to be bound
+by the terms of this agreement, you may obtain a refund from the
+person or entity to whom you paid the fee as set forth in paragraph
+1.E.8.
+
+1.B. "Project Gutenberg" is a registered trademark. It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement. There are a few
+things that you can do with most Project Gutenberg-tm electronic works
+even without complying with the full terms of this agreement. See
+paragraph 1.C below. There are a lot of things you can do with Project
+Gutenberg-tm electronic works if you follow the terms of this
+agreement and help preserve free future access to Project Gutenberg-tm
+electronic works. See paragraph 1.E below.
+
+1.C. The Project Gutenberg Literary Archive Foundation ("the
+Foundation" or PGLAF), owns a compilation copyright in the collection
+of Project Gutenberg-tm electronic works. Nearly all the individual
+works in the collection are in the public domain in the United
+States. If an individual work is unprotected by copyright law in the
+United States and you are located in the United States, we do not
+claim a right to prevent you from copying, distributing, performing,
+displaying or creating derivative works based on the work as long as
+all references to Project Gutenberg are removed. Of course, we hope
+that you will support the Project Gutenberg-tm mission of promoting
+free access to electronic works by freely sharing Project Gutenberg-tm
+works in compliance with the terms of this agreement for keeping the
+Project Gutenberg-tm name associated with the work. You can easily
+comply with the terms of this agreement by keeping this work in the
+same format with its attached full Project Gutenberg-tm License when
+you share it without charge with others.
+
+1.D. The copyright laws of the place where you are located also govern
+what you can do with this work. Copyright laws in most countries are
+in a constant state of change. If you are outside the United States,
+check the laws of your country in addition to the terms of this
+agreement before downloading, copying, displaying, performing,
+distributing or creating derivative works based on this work or any
+other Project Gutenberg-tm work. The Foundation makes no
+representations concerning the copyright status of any work in any
+country outside the United States.
+
+1.E. Unless you have removed all references to Project Gutenberg:
+
+1.E.1. The following sentence, with active links to, or other
+immediate access to, the full Project Gutenberg-tm License must appear
+prominently whenever any copy of a Project Gutenberg-tm work (any work
+on which the phrase "Project Gutenberg" appears, or with which the
+phrase "Project Gutenberg" is associated) is accessed, displayed,
+performed, viewed, copied or distributed:
+
+  This eBook is for the use of anyone anywhere in the United States and
+  most other parts of the world at no cost and with almost no
+  restrictions whatsoever. You may copy it, give it away or re-use it
+  under the terms of the Project Gutenberg License included with this
+  eBook or online at www.gutenberg.org. If you are not located in the
+  United States, you'll have to check the laws of the country where you
+  are located before using this ebook.
+
+1.E.2. If an individual Project Gutenberg-tm electronic work is
+derived from texts not protected by U.S. copyright law (does not
+contain a notice indicating that it is posted with permission of the
+copyright holder), the work can be copied and distributed to anyone in
+the United States without paying any fees or charges. If you are
+redistributing or providing access to a work with the phrase "Project
+Gutenberg" associated with or appearing on the work, you must comply
+either with the requirements of paragraphs 1.E.1 through 1.E.7 or
+obtain permission for the use of the work and the Project Gutenberg-tm
+trademark as set forth in paragraphs 1.E.8 or 1.E.9.
+
+1.E.3. If an individual Project Gutenberg-tm electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any
+additional terms imposed by the copyright holder. Additional terms
+will be linked to the Project Gutenberg-tm License for all works
+posted with the permission of the copyright holder found at the
+beginning of this work.
+
+1.E.4. Do not unlink or detach or remove the full Project Gutenberg-tm
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg-tm.
+
+1.E.5. Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg-tm License.
+
+1.E.6. You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including
+any word processing or hypertext form. However, if you provide access
+to or distribute copies of a Project Gutenberg-tm work in a format
+other than "Plain Vanilla ASCII" or other format used in the official
+version posted on the official Project Gutenberg-tm web site
+(www.gutenberg.org), you must, at no additional cost, fee or expense
+to the user, provide a copy, a means of exporting a copy, or a means
+of obtaining a copy upon request, of the work in its original "Plain
+Vanilla ASCII" or other form. Any alternate format must include the
+full Project Gutenberg-tm License as specified in paragraph 1.E.1.
+
+1.E.7. Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg-tm works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8. You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg-tm electronic works
+provided that
+
+* You pay a royalty fee of 20% of the gross profits you derive from
+  the use of Project Gutenberg-tm works calculated using the method
+  you already use to calculate your applicable taxes. The fee is owed
+  to the owner of the Project Gutenberg-tm trademark, but he has
+  agreed to donate royalties under this paragraph to the Project
+  Gutenberg Literary Archive Foundation. Royalty payments must be paid
+  within 60 days following each date on which you prepare (or are
+  legally required to prepare) your periodic tax returns. Royalty
+  payments should be clearly marked as such and sent to the Project
+  Gutenberg Literary Archive Foundation at the address specified in
+  Section 4, "Information about donations to the Project Gutenberg
+  Literary Archive Foundation."
+
+* You provide a full refund of any money paid by a user who notifies
+  you in writing (or by e-mail) within 30 days of receipt that s/he
+  does not agree to the terms of the full Project Gutenberg-tm
+  License. You must require such a user to return or destroy all
+  copies of the works possessed in a physical medium and discontinue
+  all use of and all access to other copies of Project Gutenberg-tm
+  works.
+
+* You provide, in accordance with paragraph 1.F.3, a full refund of
+  any money paid for a work or a replacement copy, if a defect in the
+  electronic work is discovered and reported to you within 90 days of
+  receipt of the work.
+
+* You comply with all other terms of this agreement for free
+  distribution of Project Gutenberg-tm works.
+
+1.E.9. If you wish to charge a fee or distribute a Project
+Gutenberg-tm electronic work or group of works on different terms than
+are set forth in this agreement, you must obtain permission in writing
+from both the Project Gutenberg Literary Archive Foundation and The
+Project Gutenberg Trademark LLC, the owner of the Project Gutenberg-tm
+trademark. Contact the Foundation as set forth in Section 3 below.
+
+1.F.
+
+1.F.1. Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+works not protected by U.S. copyright law in creating the Project
+Gutenberg-tm collection. Despite these efforts, Project Gutenberg-tm
+electronic works, and the medium on which they may be stored, may
+contain "Defects," such as, but not limited to, incomplete, inaccurate
+or corrupt data, transcription errors, a copyright or other
+intellectual property infringement, a defective or damaged disk or
+other medium, a computer virus, or computer codes that damage or
+cannot be read by your equipment.
+
+1.F.2. LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
+of Replacement or Refund" described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg-tm trademark, and any other party distributing a Project
+Gutenberg-tm electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees. YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH 1.F.3. YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3. LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from. If you
+received the work on a physical medium, you must return the medium
+with your written explanation. The person or entity that provided you
+with the defective work may elect to provide a replacement copy in
+lieu of a refund. If you received the work electronically, the person
+or entity providing it to you may choose to give you a second
+opportunity to receive the work electronically in lieu of a refund. If
+the second copy is also defective, you may demand a refund in writing
+without further opportunities to fix the problem.
+
+1.F.4. Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you 'AS-IS', WITH NO
+OTHER WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT
+LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5. Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of
+damages. If any disclaimer or limitation set forth in this agreement
+violates the law of the state applicable to this agreement, the
+agreement shall be interpreted to make the maximum disclaimer or
+limitation permitted by the applicable state law. The invalidity or
+unenforceability of any provision of this agreement shall not void the
+remaining provisions.
+
+1.F.6. INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg-tm electronic works in
+accordance with this agreement, and any volunteers associated with the
+production, promotion and distribution of Project Gutenberg-tm
+electronic works, harmless from all liability, costs and expenses,
+including legal fees, that arise directly or indirectly from any of
+the following which you do or cause to occur: (a) distribution of this
+or any Project Gutenberg-tm work, (b) alteration, modification, or
+additions or deletions to any Project Gutenberg-tm work, and (c) any
+Defect you cause.
+
+Section 2. Information about the Mission of Project Gutenberg-tm
+
+Project Gutenberg-tm is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of
+computers including obsolete, old, middle-aged and new computers. It
+exists because of the efforts of hundreds of volunteers and donations
+from people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need are critical to reaching Project Gutenberg-tm's
+goals and ensuring that the Project Gutenberg-tm collection will
+remain freely available for generations to come. In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg-tm and future
+generations. To learn more about the Project Gutenberg Literary
+Archive Foundation and how your efforts and donations can help, see
+Sections 3 and 4 and the Foundation information page at
+www.gutenberg.org Section 3. Information about the Project Gutenberg
+Literary Archive Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service. The Foundation's EIN or federal tax identification
+number is 64-6221541. Contributions to the Project Gutenberg Literary
+Archive Foundation are tax deductible to the full extent permitted by
+U.S. federal laws and your state's laws.
+
+The Foundation's principal office is in Fairbanks, Alaska, with the
+mailing address: PO Box 750175, Fairbanks, AK 99775, but its
+volunteers and employees are scattered throughout numerous
+locations. Its business office is located at 809 North 1500 West, Salt
+Lake City, UT 84116, (801) 596-1887. Email contact links and up to
+date contact information can be found at the Foundation's web site and
+official page at www.gutenberg.org/contact
+
+For additional contact information:
+
+    Dr. Gregory B. Newby
+    Chief Executive and Director
+    gbnewby@pglaf.org
+
+Section 4. Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg-tm depends upon and cannot survive without wide
+spread public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine readable form accessible by the widest
+array of equipment including outdated equipment. Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States. Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements. We do not solicit donations in locations
+where we have not received written confirmation of compliance. To SEND
+DONATIONS or determine the status of compliance for any particular
+state visit www.gutenberg.org/donate
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States. U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg Web pages for current donation
+methods and addresses. Donations are accepted in a number of other
+ways including checks, online payments and credit card donations. To
+donate, please visit: www.gutenberg.org/donate
+
+Section 5. General Information About Project Gutenberg-tm electronic works.
+
+Professor Michael S. Hart was the originator of the Project
+Gutenberg-tm concept of a library of electronic works that could be
+freely shared with anyone. For forty years, he produced and
+distributed Project Gutenberg-tm eBooks with only a loose network of
+volunteer support.
+
+Project Gutenberg-tm eBooks are often created from several printed
+editions, all of which are confirmed as not protected by copyright in
+the U.S. unless a copyright notice is included. Thus, we do not
+necessarily keep eBooks in compliance with any particular paper
+edition.
+
+Most people start at our Web site which has the main PG search
+facility: www.gutenberg.org
+
+This Web site includes information about Project Gutenberg-tm,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.
+
