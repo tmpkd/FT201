@@ -10,3 +10,7 @@
 	path = Dmitrii_Kariakin
 	url = https://github.com/tmpkd/FILP
 	branch = master
+[submodule "Ruslan Sirazhetdinov"]
+	path = Ruslan_Sirazhetdinov
+	url = https://github.com/irusland/text-manager
+	branch = master
