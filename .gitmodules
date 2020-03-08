@@ -14,3 +14,15 @@
 	path = Ruslan_Sirazhetdinov
 	url = https://github.com/irusland/text-manager
 	branch = master
+[submodule "Pavel Cherentsov"]
+	path = Pavel_Cherentsov
+	url = https://github.com/PavelCherentsov/FILP
+	branch = master
+[submodule "Nikolai Korobeinikov"]
+	path = Nikolai_Korobeinikov
+	url = https://github.com/hypelive/FILP
+	branch = master
+[submodule "Ilya Belyaev"]
+	path = Ilya_Belyaev
+	url = https://github.com/CaptainBelyash/Belyaev-FILP
+	branch = master
