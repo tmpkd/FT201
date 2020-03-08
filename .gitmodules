@@ -54,7 +54,3 @@
 	path = Maria_Osipova
 	url = https://github.com/maria-osp/FILP
 	branch = master
-[submodule "Inna Anikina"]
-        path = Inna_Anikina
-        url = https://github.com/innaanikina/filp_cplusplus
-        branch = master
