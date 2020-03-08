@@ -26,3 +26,23 @@
 	path = Ilya_Belyaev
 	url = https://github.com/CaptainBelyash/Belyaev-FILP
 	branch = master
+[submodule "Semen Beklenishchev"]
+	path = Semen_Beklenishchev
+	url = https://github.com/beklenishchevS/FILP_practice
+	branch = master
+[submodule "Kirill Kulemin"]
+	path = Kirill_Kulemin
+	url = https://github.com/kirillkulemin/FILP
+	branch = master
+[submodule "Ivan Kogut"]
+	path = Ivan_Kogut
+	url = https://github.com/IvanKogut11/c-task1
+	branch = master
+[submodule "Evgenii Perezhogin"]
+	path = Evgenii_Perezhogin
+	url = https://github.com/PapaKarlo787/filp
+	branch = master
+[submodule "Ziyatdinov Alexander"]
+	path = Ziyatdinov_Alexander
+	url = https://github.com/alextttzzz/FILP_Ziyatdinov_Alexander
+	branch = master
