@@ -46,3 +46,15 @@
 	path = Ziyatdinov_Alexander
 	url = https://github.com/alextttzzz/FILP_Ziyatdinov_Alexander
 	branch = master
+[submodule "Stepan Hudyakov"]
+	path = Stepan_Hudyakov
+	url = https://github.com/Scopee/FILP
+	branch = master
+[submodule "Maria Osipova"]
+	path = Maria_Osipova
+	url = https://github.com/maria-osp/FILP
+	branch = master
+[submodule "Inna Anikina"]
+        path = Inna_Anikina
+        url = https://github.com/innaanikina/filp_cplusplus
+        branch = master
