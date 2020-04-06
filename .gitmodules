@@ -58,3 +58,7 @@
 	path = Inna_Anikina
 	url = https://github.com/innaanikina/filp_cplusplus
 	branch = master
+[submodule "Ruslan Sirazhetdinov 2"]
+	path = Ruslan_Sirazhetdinov_2
+	url = https://github.com/irusland/buddy-allocator
+	branch = master
