@@ -62,3 +62,7 @@
 	path = Ruslan_Sirazhetdinov_2
 	url = https://github.com/irusland/buddy-allocator
 	branch = master
+[submodule "Ruslan Sirazhetdinov 3"]
+	path = Ruslan_Sirazhetdinov_3
+	url = https://github.com/irusland/spointer
+	branch = master
