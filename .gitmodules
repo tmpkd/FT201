@@ -70,3 +70,9 @@
 	path = Lev_Mukoseev
 	url = https://github.com/LevMukoseev/FILP
 	branch = master
+[submodule "Irina Kuzvesova"]
+	path = Irina Kuzvesova
+	url = https://github.com/IrinaKuzvesova/FILP
+[submodule "Anton Zanin"]
+	path = Anton Zanin
+	url = https://github.com/ZaninAnton/FILP
